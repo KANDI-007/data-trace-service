@@ -10,6 +10,7 @@ const items = [
   "dist/compiled/stacktrace-parser",
   "dist/compiled/ws",
   "dist/compiled/babel/code-frame.js",
+  "dist/compiled/babel-code-frame",
 ];
 
 for (const item of items) {

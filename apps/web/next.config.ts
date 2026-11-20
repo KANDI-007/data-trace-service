@@ -8,6 +8,7 @@ const nextConfig: NextConfig = {
       "./traced-runtime/next/dist/compiled/stacktrace-parser/**/*",
       "./traced-runtime/next/dist/compiled/ws/**/*",
       "./traced-runtime/next/dist/compiled/babel/code-frame.js",
+      "./traced-runtime/next/dist/compiled/babel-code-frame/**/*",
     ],
   },
   transpilePackages: ["@dts/shared"],
