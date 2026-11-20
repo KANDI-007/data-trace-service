@@ -1,0 +1,5 @@
+---
+description: Règles permanentes du site DATA TRACE SERVICE
+alwaysApply: true
+---
+Lis AGENTS.md, PRODUCT.md et DESIGN.md avant toute modification. Interface en français, code en anglais. Pas de WordPress. Ne jamais inventer de contenu ni de coordonnées : écrire « à compléter ». Respecter les maquettes dans maquettes/.

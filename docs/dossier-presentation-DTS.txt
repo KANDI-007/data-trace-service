@@ -1,0 +1,425 @@
+  Dossier de présentation de DATA
+          TRACE SERVICE
+                Base de contenu pour la création du site web
+                       DATA TRACE SERVICE · Version 1.0 · 9 novembre 2026
+
+
+
+Sommaire
+
+
+ 1. L’essentiel en 30 secondes
+ 2. Fiche d’identité
+ 3. Le problème que nous résolvons
+ 4. Notre méthode en trois étapes
+ 5. Nos services et solutions
+ 6. Secteurs accompagnés
+ 7. Pourquoi choisir DATA TRACE SERVICE
+ 8. Structure conseillée du site
+ 9. Textes prêts à l’emploi
+ 10. Formulaire « Diagnostic gratuit »
+ 11. Exigences techniques du site
+ 12. Informations à compléter avant la mise en ligne
+ 13. Conseils pour réussir le site
+
+
+
+
+                          DATA TRACE SERVICE – Dossier de présentation – Page 1
+    1. L’essentiel en 30 secondes
+DATA TRACE SERVICE accompagne les entreprises togolaises dans la traçabilité, l’organisation, la
+digitalisation et l’amélioration de leurs performances.
+Notre démarche :
+   1.     Nous réalisons gratuitement un diagnostic de votre entreprise.
+   2.     Nous vous proposons ensuite une solution simple de digitalisation, adaptée à vos besoins et à
+          votre budget.
+   3.     Vous pouvez alors gérer votre entreprise à distance : suivre votre activité, vos stocks, vos ventes,
+          vos flux financiers et vos clients depuis votre téléphone ou votre ordinateur.
+Slogan : Traçabilité · Organisation · Qualité
+
+
+    2. Fiche d’identité
+ Élément                                Information
+
+ Nom                                    DATA TRACE SERVICE (DTS)
+
+ Forme juridique                        Société à Responsabilité Limitée Unipersonnelle (SARL U), constituée selon les lois
+                                        en vigueur au Togo
+
+ Siège                                  Bè Kpota, Lomé, Togo
+
+ Gérante                                TINDJO N’tchièbini
+
+ Slogan                                 Traçabilité · Organisation · Qualité
+
+ E-mail                                 datatraceservice@gmail.com
+
+ Téléphone / WhatsApp                   [numéro à compléter]
+
+ Réseaux sociaux                        [Facebook, Instagram, LinkedIn, TikTok : liens à compléter]
+
+ Numéros d’immatriculation              [RCCM, NIF : à compléter]
+ (mentions légales)
+
+ Langue du site                         Français (anglais prévu dans un second temps)
+
+ Zone d’intervention                    Lomé et l’ensemble du Togo [à confirmer]
+
+
+2.1 Mission
+Accompagner les entreprises dans la traçabilité, l’organisation, la digitalisation et l’amélioration de leurs
+performances.
+
+
+2.2 Valeurs
+ Valeur                Ce que cela signifie pour le client
+
+ Simplicité            Des solutions faciles à prendre en main, même sans être informaticien.
+
+ Transparence          Un diagnostic gratuit, des propositions claires, des prix annoncés avant de commencer.
+
+ Fiabilité             Des données justes et tracées, sur lesquelles on peut décider.
+
+ Proximité             Une équipe locale, qui comprend les réalités des entreprises togolaises et reste disponible après la
+                       mise en place.
+
+ Progression           On commence petit, on ajoute des fonctions au rythme de l’entreprise.
+
+
+
+
+                                 DATA TRACE SERVICE – Dossier de présentation – Page 2
+2.3 Ton de communication
+Professionnel, chaleureux et concret. Phrases courtes, vocabulaire simple, pas de jargon technique. On
+parle des résultats pour le chef d’entreprise (gagner du temps, voir clair, décider mieux) avant de parler
+de technologie.
+
+      3. Le problème que nous résolvons
+Beaucoup de dirigeants gèrent encore leur entreprise avec des cahiers, des fichiers dispersés et leur
+mémoire. Ils doivent être sur place pour savoir ce qui se passe. Les conséquences sont les mêmes partout :
+  •     pas de vue d’ensemble sur la production, les stocks, les ventes et l’argent ;
+  •     des erreurs et des pertes découvertes trop tard ;
+  •     des clients mal connus, dont les avis ne sont jamais recueillis ;
+  •     des décisions prises sans chiffres fiables ;
+  •     un dirigeant qui ne peut pas s’absenter sans perdre le contrôle.
+
+  4.    Notre méthode en trois étapes
+C’est le cœur du message du site. Elle doit apparaître dès la page d’accueil.
+
+Étape 1 – Diagnostic gratuit
+Nous venons comprendre votre entreprise, sans que cela vous coûte quoi que ce soit.
+  •     Échange avec le responsable pour comprendre son activité et ses difficultés.
+  •     Observation de la façon dont l’entreprise gère aujourd’hui ses ventes, ses stocks, sa production, ses
+        clients et ses flux financiers.
+  •     Identification des pertes de temps, des risques d’erreur et des informations qui manquent au
+        dirigeant.
+  •     Remise d’un court compte rendu avec les points à améliorer en priorité.
+  •     Sans engagement : le client reste libre de donner suite ou non.
+Durée du diagnostic et conditions (nombre de visites, zone géographique couverte) : [à préciser par la
+Gérante].
+
+Étape 2 – Une solution simple de digitalisation
+Après le diagnostic, nous proposons la solution la plus simple qui résout vos vrais problèmes.
+  •     Une proposition claire : ce qui sera mis en place, dans quel délai, pour quel prix.
+  •     Une solution démarrée en petit (par exemple le suivi des ventes et des stocks), qui s’agrandit
+        ensuite.
+  •     Installation, configuration et formation de vos équipes.
+
+Étape 3 – Gestion à distance et accompagnement
+Vous pilotez votre entreprise où que vous soyez.
+  •     Un tableau de bord consultable sur téléphone ou ordinateur.
+  •     Des alertes lorsqu’un problème survient (stock bas, écart, avis client négatif).
+  •     Des rapports prêts à lire pour décider.
+  •     Un suivi et un support après la mise en place.
+
+  5.    Nos services et solutions
+Chaque service peut avoir sa propre page sur le site.
+
+                              DATA TRACE SERVICE – Dossier de présentation – Page 3
+5.1 Diagnostic gratuit
+  •       Pour qui : tout responsable d’entreprise qui veut y voir plus clair.
+  •       Ce que nous faisons : nous analysons gratuitement votre fonctionnement et nous vous disons ce
+          qui peut être amélioré par le numérique.
+  •       Ce que vous gagnez : une vision claire de vos priorités, sans risque.
+
+5.2 Digitalisation des processus de l’entreprise
+  •       Problème : ventes, stocks, achats, production et caisse gérés sur papier ou dans des fichiers
+          dispersés.
+  •       Notre solution : des outils simples qui remplacent les cahiers et réunissent l’information au même
+          endroit.
+  •       Bénéfices : gain de temps, moins d’erreurs, informations disponibles à distance.
+
+
+5.3 Traçabilité de la production à la commercialisation
+  •       Problème : on ne sait pas toujours d’où vient un produit, comment il a été fabriqué ni où il est allé.
+  •       Notre solution : suivi de chaque lot, de la réception des matières premières à la vente, avec la
+          possibilité de retrouver l’historique d’un produit grâce à un code QR.
+  •       Bénéfices : qualité maîtrisée, pertes réduites, confiance des clients, vue globale sur les flux et les
+          flux financiers.
+
+5.4 FeedBack DTS : les avis de vos clients par QR code
+  •       Problème : les clients mécontents partent sans rien dire, et l’entreprise ne sait pas ce qu’ils
+          pensent.
+  •       Notre solution : le client scanne un code QR (sur sa table, au comptoir, à l’accueil), répond à
+          quelques questions en moins d’une minute, et le responsable voit les résultats sur son tableau de
+          bord : note moyenne, satisfaction, NPS, alertes sur les avis négatifs.
+  •       Pour qui : restaurants, commerces, centres de santé, écoles et universités, événements.
+  •       Bénéfices : connaître ses clients, réagir vite, améliorer son service avec des faits.
+
+5.5 Gestion et fiabilité des données (DTS AgroFiable)
+  •       Problème : bases de producteurs ou de clients avec des doublons, des fiches incomplètes, des
+          coordonnées erronées.
+  •       Notre solution : contrôle automatique des fichiers, rapport Excel des anomalies avec priorités et
+          corrections proposées, puis fichiers propres prêts à être réutilisés dans votre outil actuel.
+  •       Bénéfices : données fiables pour les rapports, les paiements et les audits.
+
+5.6 DTS AGRO : traçabilité et gestion agricole
+Plateforme modulaire pour les coopératives, exportateurs et transformateurs. Chaque client commence avec
+un module et ajoute les autres selon ses besoins.
+
+ Module                   Ce qu’il fait
+
+ AgroID                   Identifie chaque producteur de façon unique (carte avec QR code, parcelles, historique) et détecte
+                          les doublons.
+
+ Collecte                 Enregistre chaque livraison et rapproche automatiquement achats, stocks et paiements.
+
+ ParcelCheck              Contrôle les parcelles et signale les coordonnées GPS suspectes ou les parcelles qui se
+                          chevauchent.
+
+ Intrants                 Suit la distribution des semences et engrais aux producteurs.
+
+
+                                  DATA TRACE SERVICE – Dossier de présentation – Page 4
+ Module                  Ce qu’il fait
+
+ AgroFactory             Digitalise les unités de transformation et retrace chaque lot jusqu’au produit fini.
+
+ HarvestPredict          Aide à prévoir les récoltes et à planifier les approvisionnements.
+
+À présenter comme une offre en cours de déploiement : indiquer sur le site uniquement les modules
+effectivement disponibles [à confirmer par la Gérante].
+
+5.7 Applications web et mobiles sur mesure
+Conception d’applications web, mobiles et de solutions en abonnement (SaaS) pour répondre à un besoin
+précis de l’entreprise.
+
+6. Secteurs accompagnés
+ Secteur                  Exemples d’usage
+
+ Restauration et          Suivi des ventes et des stocks, avis clients par QR code, flux financiers du jour.
+ commerce
+
+ Production et            Suivi des lots, des matières premières et des pertes, du site de production jusqu’à la vente.
+ agroalimentaire
+
+ Agriculture              Identification des producteurs, collecte, contrôle des parcelles, distribution d’intrants.
+
+ Santé                    Avis des patients (anonymes), qualité de l’accueil, suivi de l’organisation.
+
+ Éducation                Avis des étudiants et des parents, qualité des enseignements et de l’administration.
+
+ Événements               Avis des participants, rapport final pour les organisateurs.
+
+
+7. Pourquoi choisir DATA TRACE SERVICE
+ Avantage                  Message pour le visiteur
+
+ Diagnostic gratuit        Vous ne prenez aucun risque pour commencer.
+
+ Solutions simples         Vous n’avez pas besoin d’être informaticien.
+
+ Gestion à distance        Vous gardez le contrôle même quand vous n’êtes pas sur place.
+
+ Vue globale               Production, ventes, stocks, flux financiers et clients au même endroit.
+
+ Pensé pour le terrain     Des outils qui fonctionnent avec une connexion faible et des équipes peu à l’aise avec
+                           l’informatique.
+
+ Accompagnement            Installation, formation et suivi, pas seulement un logiciel.
+
+ Évolutif                  On commence par un besoin, on ajoute le reste plus tard.
+
+ Données fiables et        Vous décidez avec des chiffres exacts.
+ tracées
+
+
+8. Structure conseillée du site
+ Page                     Contenu principal                                                               Priorité
+
+ Accueil                  Message principal, méthode en 3 étapes, services, secteurs, appel à             Indispensable
+                          l’action (diagnostic gratuit)
+
+ Qui sommes-nous          Mission, valeurs, équipe, présentation de la Gérante                            Indispensable
+
+ Diagnostic gratuit       Explication de la démarche, formulaire de demande, bouton WhatsApp              Indispensable
+
+ Nos solutions            Page d’ensemble puis une page par service (section 5)                           Indispensable
+
+
+
+                                 DATA TRACE SERVICE – Dossier de présentation – Page 5
+ Page                    Contenu principal                                                      Priorité
+
+ FeedBack DTS            Présentation du produit, captures d’écran, démonstration, demande de   Indispensable
+                         démo
+
+ DTS AGRO                Les modules agricoles, public visé                                     Recommandée
+
+ Secteurs                Une section par secteur (section 6)                                    Recommandée
+
+ Actualités              Participation à la Foire Togo 2000, nouveautés, conseils (blog)        Plus tard
+
+ Contact                 Formulaire, WhatsApp, e-mail, adresse, carte                           Indispensable
+
+ Mentions légales et     Informations légales, protection des données                           Indispensable
+ confidentialité
+
+
+8.1 Page d’accueil : sections dans l’ordre
+  1.    En-tête : logo, menu, bouton « Diagnostic gratuit ».
+  2.    Bannière principale : accroche, sous-titre, deux boutons (section 9).
+  3.    Le problème : trois ou quatre phrases courtes que le dirigeant reconnaît.
+  4.    La méthode en 3 étapes : diagnostic gratuit, solution simple, gestion à distance.
+  5.    Nos solutions : cartes (digitalisation, traçabilité, FeedBack DTS, fiabilité des données, DTS AGRO).
+  6.    Pourquoi DATA TRACE SERVICE : les avantages de la section 7.
+  7.    Secteurs.
+  8.    Références et témoignages : [à ajouter seulement quand ils existent et sont autorisés].
+  9.    Appel à l’action final : « Demandez votre diagnostic gratuit » avec formulaire court.
+  10.   Pied de page : coordonnées, réseaux sociaux, mentions légales.
+
+9. Textes prêts à l’emploi
+Accroche de la page d’accueil
+  Gérez votre entreprise à distance, simplement.
+  Nous commençons par un diagnostic gratuit, puis nous vous proposons une solution de digitalisation
+  simple, adaptée à votre activité.
+Boutons : Demander mon diagnostic gratuit · Découvrir nos solutions
+Section « Diagnostic gratuit »
+  Avant de vous proposer quoi que ce soit, nous venons comprendre votre entreprise.
+  Notre diagnostic est gratuit et sans engagement. Nous identifions ce qui vous fait perdre du temps ou de
+  l’argent, et nous vous disons ce qui peut être amélioré par le numérique. Vous décidez ensuite si vous
+  voulez aller plus loin.
+Section « Solution simple »
+  Une solution simple, pas un logiciel compliqué.
+  Nous mettons en place l’essentiel : suivre vos ventes, vos stocks, votre production, vos clients et vos flux
+  financiers. Puis nous ajoutons des fonctions au rythme de votre entreprise. Vos équipes sont formées, et
+  nous restons à vos côtés.
+Section « Gestion à distance »
+  Pilotez votre entreprise depuis votre téléphone.
+  Ouvrez votre tableau de bord où que vous soyez : voyez ce qui a été produit, vendu et encaissé, recevez
+  une alerte en cas de problème, et prenez vos décisions avec des chiffres fiables.
+Texte « Qui sommes-nous »
+
+
+                              DATA TRACE SERVICE – Dossier de présentation – Page 6
+   DATA TRACE SERVICE est une entreprise togolaise spécialisée dans la traçabilité, l’organisation et la
+   digitalisation. Notre mission : accompagner les entreprises pour mieux maîtriser leur activité et améliorer
+   leurs performances. Nous croyons que le numérique doit être simple, utile et accessible à tous les chefs
+   d’entreprise, quelle que soit leur taille. Traçabilité · Organisation · Qualité.
+Appel à l’action final
+   Prêt à y voir plus clair dans votre entreprise ?
+   Demandez votre diagnostic gratuit dès aujourd’hui. Réponse sous [délai à préciser, ex. 48 heures].
+
+   11. Formulaire « Diagnostic gratuit »
+Le formulaire doit être court (moins d’une minute) pour encourager les demandes.
+
+ Champ                           Type                                                                        Obligatoire
+
+ Nom et prénoms                  Texte                                                                       Oui
+
+ Entreprise                      Texte                                                                       Oui
+
+ Téléphone / WhatsApp            Texte                                                                       Oui
+
+ E-mail                          E-mail                                                                      Non
+
+ Secteur d’activité              Liste (restauration, commerce, production, agriculture, santé,              Oui
+                                 éducation, événement, autre)
+
+ Ville                           Texte                                                                       Oui
+
+ Votre principal souci           Zone de texte                                                               Non
+ aujourd’hui
+
+ Consentement au contact         Case à cocher                                                               Oui
+
+Après l’envoi : message de remerciement à l’écran, e-mail de confirmation à la personne, et notification
+immédiate à datatraceservice@gmail.com. Un bouton WhatsApp doit être présent sur toutes les pages pour
+les prises de contact rapides.
+
+   12. Exigences techniques du site
+ Domaine                 Exigence
+
+ Mobile d’abord          Une grande partie des visiteurs viendra de leur téléphone : site responsive, lisible et rapide.
+
+ Rapidité                Chargement en moins de 3 secondes, y compris sur une connexion moyenne ; images optimisées.
+
+ Contact                 Bouton WhatsApp flottant, formulaires reliés à l’e-mail, numéro cliquable.
+
+ Identité visuelle       Logo de DATA TRACE SERVICE ; bleu marine comme couleur principale (#1F3A5F), turquoise en
+                         accent ; police sans empattement moderne (par exemple Poppins) ; style sobre et professionnel.
+
+ Images                  Photos de l’équipe, de démonstrations et de captures d’écran des produits [à fournir] ; illustrations
+                         simples ; pas d’images génériques trop éloignées de la réalité togolaise.
+
+ Référencement           Titres et descriptions soignés ; mots-clés : traçabilité Togo, digitalisation entreprise Lomé, avis
+ (SEO)                   clients QR code, logiciel de gestion entreprise Togo, gestion à distance ; fiche Google Business
+                         Profile à créer.
+
+ Mesure                  Statistiques de visites et suivi des demandes de diagnostic.
+
+ Juridique               Mentions légales complètes, politique de confidentialité, consentement pour les formulaires.
+
+ Sécurité                HTTPS, sauvegardes régulières, protection contre les messages indésirables sur les formulaires.
+
+ Nom de domaine et       Nom de domaine professionnel [à choisir et acheter], adresse e-mail au nom du domaine à la place
+ e-mail                  de l’adresse Gmail.
+
+ Gestion du contenu      La Gérante doit pouvoir modifier les textes et ajouter des actualités sans l’aide d’un développeur.
+
+
+                                  DATA TRACE SERVICE – Dossier de présentation – Page 7
+Domaine             Exigence
+
+Langues             Français au lancement, structure prête pour l’anglais.
+
+
+  13. Informations à compléter avant la mise en ligne
+  •   ☐ Numéro de téléphone et WhatsApp professionnels
+  •   ☐ Liens des réseaux sociaux (Facebook, Instagram, LinkedIn, TikTok)
+  •   ☐ Numéros d’immatriculation (RCCM, NIF) pour les mentions légales
+  •   ☐ Adresse précise du siège et horaires d’ouverture
+  •   ☐ Logo en haute résolution (fichier d’origine)
+  •   ☐ Photos de la Gérante et de l’équipe, photos du stand à la Foire Togo 2000
+  •   ☐ Captures d’écran de FeedBack DTS et des autres produits
+  •   ☐ Durée et conditions du diagnostic gratuit
+  •   ☐ Zone d’intervention (Lomé seulement ou tout le Togo)
+  •   ☐ Offres et tarifs à afficher (ou mention « sur devis »)
+  •   ☐ Modules DTS AGRO réellement disponibles
+  •   ☐ Références et témoignages de clients, avec leur autorisation
+  •   ☐ Nom de domaine choisi et adresse e-mail professionnelle
+  •   ☐ Délai de réponse aux demandes de diagnostic
+
+
+13. Conseils pour réussir le site
+  •   Un seul message fort : diagnostic gratuit, puis solution simple, puis gestion à distance. Il doit être
+      compris en cinq secondes.
+  •   Un appel à l’action visible partout : le bouton « Diagnostic gratuit » et le bouton WhatsApp sur
+      chaque page.
+  •   De la preuve dès que possible : captures d’écran, vidéo courte de démonstration, puis
+      témoignages réels.
+  •   Pas de promesse exagérée : n’afficher que les services disponibles et les chiffres vérifiables.
+  •   Un site qui vit : publier des actualités régulières (foire, nouveautés, conseils aux entreprises) pour
+      améliorer le référencement et la confiance.
+
+Historique des versions
+Version     Date             Auteur                 Modification
+
+1.0         9 novembre       DATA TRACE             Première version du dossier de présentation pour le site web
+            2026             SERVICE
+
+
+
+
+                             DATA TRACE SERVICE – Dossier de présentation – Page 8
+

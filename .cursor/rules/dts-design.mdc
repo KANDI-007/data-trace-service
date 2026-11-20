@@ -1,0 +1,6 @@
+---
+description: Règles de design et d'accessibilité pour les composants et pages
+globs: ["apps/web/**/*.{ts,tsx,css}"]
+alwaysApply: false
+---
+Utiliser les variables de DESIGN.md (jamais de couleur en dur). Poppins auto-hébergée. Contraste 4,5:1, texte >= 11 px, cibles 44 px, focus visible. Pas de texte en dégradé, pas de grille de cartes identiques. Animations 150-300 ms, désactivées avec prefers-reduced-motion. Mobile d'abord.

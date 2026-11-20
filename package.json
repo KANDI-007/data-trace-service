@@ -1,0 +1,21 @@
+{
+  "name": "data-trace-service",
+  "private": true,
+  "workspaces": [
+    "apps/web",
+    "apps/api",
+    "packages/shared"
+  ],
+  "scripts": {
+    "dev": "concurrently -n web,api -c cyan,magenta \"npm run dev -w @dts/web\" \"npm run dev -w @dts/api\"",
+    "lint": "npm run lint -w @dts/web && npm run lint -w @dts/api && npm run lint -w @dts/shared",
+    "typecheck": "npm run typecheck -w @dts/shared && npm run typecheck -w @dts/api && npm run typecheck -w @dts/web",
+    "test": "npm run test -w @dts/shared && npm run test -w @dts/api",
+    "test:e2e": "npm run test:e2e -w @dts/web",
+    "db:setup": "npm run prisma:push -w @dts/api && npm run seed -w @dts/api",
+    "build": "npm run build -w @dts/web && npm run build -w @dts/api"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

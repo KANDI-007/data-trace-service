@@ -1,0 +1,15 @@
+node_modules
+.next
+dist
+.env
+.env.local
+*.db
+*.db-journal
+apps/api/data/media
+apps/api/data/outbox.jsonl
+playwright-report
+test-results
+coverage
+.vercel
+*.log
+.DS_Store

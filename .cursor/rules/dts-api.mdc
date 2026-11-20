@@ -1,0 +1,6 @@
+---
+description: Règles de l'API NestJS et de la base
+globs: ["apps/api/**/*.ts","prisma/**"]
+alwaysApply: false
+---
+Valider toutes les entrées (class-validator). Requêtes via Prisma uniquement. Routes /api/admin protégées par session + 2FA. Limiter les envois par IP. Journaliser les actions sensibles (AuditLog). Aucune donnée personnelle dans les logs.

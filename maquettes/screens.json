@@ -1,0 +1,219 @@
+{
+ "home": {
+  "title": "Accueil · bannière et problème",
+  "route": "/",
+  "desktop": "maquettes/home.png",
+  "mobile": "maquettes/home-m.png",
+  "description": "Titre « Gérez votre entreprise à distance, simplement », deux boutons (diagnostic gratuit, découvrir les solutions), trois garanties, aperçu du tableau de bord sur téléphone, puis le problème des cahiers et fichiers dispersés."
+ },
+ "home2": {
+  "title": "Accueil · notre méthode",
+  "route": "/ (suite)",
+  "desktop": "maquettes/home2.png",
+  "mobile": "maquettes/home2-m.png",
+  "description": "Les trois étapes reliées par une ligne en pointillés : diagnostic gratuit, solution simple, gestion à distance."
+ },
+ "home3": {
+  "title": "Accueil · nos solutions",
+  "route": "/ (suite)",
+  "desktop": "maquettes/home3.png",
+  "mobile": "maquettes/home3-m.png",
+  "description": "FeedBack DTS mis en avant, puis traçabilité, digitalisation, fiabilité des données, DTS AGRO, applications sur mesure et un appel au diagnostic."
+ },
+ "home4": {
+  "title": "Accueil · pourquoi nous et secteurs",
+  "route": "/ (suite)",
+  "desktop": "maquettes/home4.png",
+  "mobile": "maquettes/home4-m.png",
+  "description": "Huit raisons de choisir DATA TRACE SERVICE et une mosaïque de six secteurs."
+ },
+ "home5": {
+  "title": "Accueil · appel final et pied de page",
+  "route": "/ (suite)",
+  "desktop": "maquettes/home5.png",
+  "mobile": "maquettes/home5-m.png",
+  "description": "Mini-formulaire de diagnostic, pied de page avec liens, coordonnées, réseaux sociaux et mentions."
+ },
+ "about": {
+  "title": "Qui sommes-nous",
+  "route": "/qui-sommes-nous",
+  "desktop": "maquettes/about.png",
+  "mobile": "maquettes/about-m.png",
+  "description": "Mission, cinq valeurs (simplicité, transparence, fiabilité, proximité, progression), présentation de la Gérante, fiche d’identité (SARL U, siège, e-mail, slogan)."
+ },
+ "diag": {
+  "title": "Diagnostic gratuit",
+  "route": "/diagnostic-gratuit",
+  "desktop": "maquettes/diag.png",
+  "mobile": "maquettes/diag-m.png",
+  "description": "Explication en cinq points et formulaire : nom, entreprise, téléphone, e-mail facultatif, secteur, ville, souci principal, consentement. Bouton WhatsApp en alternative."
+ },
+ "diage": {
+  "title": "Diagnostic gratuit · erreurs",
+  "route": "/diagnostic-gratuit",
+  "desktop": "maquettes/diage.png",
+  "mobile": "maquettes/diage-m.png",
+  "description": "Messages d’erreur clairs, en rouge, à côté du champ concerné (nom manquant, numéro trop court)."
+ },
+ "merci": {
+  "title": "Merci",
+  "route": "/diagnostic-gratuit/merci",
+  "desktop": "maquettes/merci.png",
+  "mobile": "maquettes/merci-m.png",
+  "description": "Confirmation avec le récapitulatif de la demande, délai de réponse et bouton WhatsApp. Un e-mail de confirmation est aussi envoyé."
+ },
+ "sol": {
+  "title": "Nos solutions",
+  "route": "/nos-solutions",
+  "desktop": "maquettes/sol.png",
+  "mobile": "maquettes/sol-m.png",
+  "description": "Les sept solutions avec ce qu’elles apportent, chacune renvoyant vers sa page."
+ },
+ "digi": {
+  "title": "Digitalisation des processus",
+  "route": "/nos-solutions/digitalisation",
+  "desktop": "maquettes/digi.png",
+  "mobile": "maquettes/digi-m.png",
+  "description": "Comparaison avant (cahier) et après (tableau de bord), ce que nous mettons en place, comment cela se passe, ce que vous gagnez."
+ },
+ "trac": {
+  "title": "Traçabilité",
+  "route": "/nos-solutions/tracabilite",
+  "desktop": "maquettes/trac.png",
+  "mobile": "maquettes/trac-m.png",
+  "description": "Historique d’un lot de jus avec code QR, parcours en quatre étapes (réception, fabrication, stock, vente) et bénéfices."
+ },
+ "fb": {
+  "title": "FeedBack DTS",
+  "route": "/nos-solutions/feedback-dts",
+  "desktop": "maquettes/fb.png",
+  "mobile": "maquettes/fb-m.png",
+  "description": "Tableau de bord d’exemple (note moyenne, satisfaction, NPS, alerte avis négatif), trois étapes (scan, réponse, action), pour qui, bouton de démonstration."
+ },
+ "fiab": {
+  "title": "Fiabilité des données",
+  "route": "/nos-solutions/fiabilite-des-donnees",
+  "desktop": "maquettes/fiab.png",
+  "mobile": "maquettes/fiab-m.png",
+  "description": "Rapport d’anomalies d’exemple (doublon, fiche incomplète, GPS), trois temps (contrôle, rapport, fichiers propres), pour qui, gains."
+ },
+ "agro": {
+  "title": "DTS AGRO",
+  "route": "/nos-solutions/dts-agro",
+  "desktop": "maquettes/agro.png",
+  "mobile": "maquettes/agro-m.png",
+  "description": "Schéma de parcelles avec alerte de chevauchement et les six modules : AgroID, Collecte, ParcelCheck, Intrants, AgroFactory, HarvestPredict."
+ },
+ "surm": {
+  "title": "Applications sur mesure",
+  "route": "/nos-solutions/applications-sur-mesure",
+  "desktop": "maquettes/surm.png",
+  "mobile": "maquettes/surm-m.png",
+  "description": "Applications web, mobiles et SaaS, avec les quatre étapes de travail (besoin, maquettes, développement, mise en ligne)."
+ },
+ "sect": {
+  "title": "Secteurs",
+  "route": "/secteurs",
+  "desktop": "maquettes/sect.png",
+  "mobile": "maquettes/sect-m.png",
+  "description": "Six secteurs avec photo et usages : restauration et commerce, production et agroalimentaire, agriculture, santé, éducation, événements."
+ },
+ "news": {
+  "title": "Actualités",
+  "route": "/actualites",
+  "desktop": "maquettes/news.png",
+  "mobile": "maquettes/news-m.png",
+  "description": "Liste d’articles avec filtres (actualités, conseils, événements), article à la une."
+ },
+ "art": {
+  "title": "Article",
+  "route": "/actualites/[slug]",
+  "desktop": "maquettes/art.png",
+  "mobile": "maquettes/art-m.png",
+  "description": "Page de lecture confortable : titre, date, image, texte, partage par WhatsApp et copie du lien."
+ },
+ "contact": {
+  "title": "Contact",
+  "route": "/contact",
+  "desktop": "maquettes/contact.png",
+  "mobile": "maquettes/contact-m.png",
+  "description": "Formulaire, WhatsApp, téléphone, e-mail, adresse du siège et carte intégrée."
+ },
+ "legal": {
+  "title": "Mentions légales et confidentialité",
+  "route": "/mentions-legales",
+  "desktop": "maquettes/legal.png",
+  "mobile": "maquettes/legal-m.png",
+  "description": "Éditeur, hébergement, protection des données, cookies, droits. Les champs à compléter sont signalés."
+ },
+ "nf": {
+  "title": "Page introuvable",
+  "route": "/404",
+  "desktop": "maquettes/nf.png",
+  "mobile": "maquettes/nf-m.png",
+  "description": "Message clair avec retour à l’accueil et WhatsApp."
+ },
+ "vote": {
+  "title": "Démonstration · questionnaire",
+  "route": "/demo/feedback",
+  "desktop": "maquettes/vote.png",
+  "mobile": "maquettes/vote-m.png",
+  "description": "Note de 1 à 5, question de rapidité, recommandation de 0 à 10, commentaire facultatif. Conçu pour le téléphone, sans compte."
+ },
+ "vote2": {
+  "title": "Démonstration · remerciement",
+  "route": "/demo/feedback/merci",
+  "desktop": "maquettes/vote2.png",
+  "mobile": "maquettes/vote2-m.png",
+  "description": "Message de remerciement après l’envoi, avis anonyme."
+ },
+ "aconn": {
+  "title": "Connexion",
+  "route": "/admin/connexion",
+  "desktop": "maquettes/aconn.png",
+  "mobile": "maquettes/aconn-m.png",
+  "description": "E-mail, mot de passe et code de vérification à 6 chiffres. Accès réservé à la Gérante et à l’équipe."
+ },
+ "adash": {
+  "title": "Tableau de bord",
+  "route": "/admin",
+  "desktop": "maquettes/adash.png",
+  "mobile": "maquettes/adash-m.png",
+  "description": "Nouvelles demandes, rappels du jour, visites, dernières demandes, liste « À compléter avant la mise en ligne », courbe des visites, pages les plus vues."
+ },
+ "adem": {
+  "title": "Demandes de diagnostic",
+  "route": "/admin/demandes",
+  "desktop": "maquettes/adem.png",
+  "mobile": "maquettes/adem-m.png",
+  "description": "Liste filtrable, fiche détaillée avec boutons Appeler et WhatsApp, statut, note interne, historique, export Excel."
+ },
+ "apages": {
+  "title": "Pages et textes",
+  "route": "/admin/pages",
+  "desktop": "maquettes/apages.png",
+  "mobile": "maquettes/apages-m.png",
+  "description": "Liste des pages, édition des titres, textes et boutons, aperçu ordinateur et téléphone, brouillon, publication et versions."
+ },
+ "aact": {
+  "title": "Actualités",
+  "route": "/admin/actualites",
+  "desktop": "maquettes/aact.png",
+  "mobile": "maquettes/aact-m.png",
+  "description": "Liste des articles et éditeur : titre, catégorie, image, texte, titre pour Google, publication ou programmation."
+ },
+ "amed": {
+  "title": "Médias",
+  "route": "/admin/medias",
+  "desktop": "maquettes/amed.png",
+  "mobile": "maquettes/amed-m.png",
+  "description": "Logo, photos et captures d’écran. Les images sont réduites et converties automatiquement pour que le site reste rapide."
+ },
+ "apar": {
+  "title": "Paramètres du site",
+  "route": "/admin/parametres",
+  "desktop": "maquettes/apar.png",
+  "mobile": "maquettes/apar-m.png",
+  "description": "Téléphone, WhatsApp, e-mail, adresse, délai de réponse, réseaux sociaux, RCCM, NIF, modules DTS AGRO affichés, témoignages, tarifs, langue."
+ }
+}
