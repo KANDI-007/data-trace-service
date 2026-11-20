@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && node scripts/trace-next-runtime.mjs",
+    "build": "node scripts/stage-next-runtime.mjs && next build && node scripts/trace-next-runtime.mjs",
     "start": "next start",
     "lint": "next lint --max-warnings 0",
     "typecheck": "tsc --noEmit",
