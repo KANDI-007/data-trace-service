@@ -22,6 +22,19 @@ export function runtimeFiles(nextRoot) {
   const seen = new Set();
   const queue = [start];
   const files = new Set();
+  const runtimes = [
+    "dist/compiled/next-server/app-page.runtime.prod.js",
+    "dist/compiled/next-server/app-route.runtime.prod.js",
+    "dist/compiled/next-server/pages.runtime.prod.js",
+    "dist/compiled/next-server/pages-api.runtime.prod.js",
+  ];
+  for (const relative of runtimes) {
+    const file = path.join(nextRoot, relative);
+    if (fs.existsSync(file)) {
+      files.add(file);
+      queue.push(file);
+    }
+  }
   const fromNext = createRequire(path.join(nextRoot, "package.json"));
   try {
     files.add(fromNext.resolve("styled-jsx/package.json"));
@@ -48,7 +61,8 @@ export function runtimeFiles(nextRoot) {
     } catch {
       continue;
     }
-    const pattern = file.endsWith(`${path.sep}server.runtime.prod.js`) ? bundleRe : anyRe;
+    const bundled = file.includes(`${path.sep}compiled${path.sep}next-server${path.sep}`) && file.endsWith(".runtime.prod.js");
+    const pattern = bundled ? bundleRe : anyRe;
     pattern.lastIndex = 0;
     let match;
     while ((match = pattern.exec(text))) {
