@@ -1,9 +1,21 @@
 import type { NextConfig } from "next";
+import path from "path";
+import { createRequire } from "module";
+
+const require = createRequire(path.join(process.cwd(), "package.json"));
+const nextRoot = path.dirname(require.resolve("next/package.json"));
+const compiled = path.join(nextRoot, "dist", "compiled");
+const trace = (name: string) => path.join(compiled, name).replace(/\\/g, "/");
 
 const nextConfig: NextConfig = {
   outputFileTracingRoot: process.cwd(),
   outputFileTracingIncludes: {
-    "/**/*": ["../node_modules/next/dist/compiled/source-map/**/*"],
+    "/**": [
+      `${trace("source-map")}/**/*`,
+      `${trace("stacktrace-parser")}/**/*`,
+      `${trace("ws")}/**/*`,
+      `${trace("babel")}/code-frame.js`,
+    ],
   },
   transpilePackages: ["@dts/shared"],
   images: {
