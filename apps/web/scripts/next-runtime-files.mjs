@@ -90,3 +90,55 @@ export function runtimeFiles(nextRoot) {
 
   return [...files];
 }
+
+export function filesRequiredByBuild(nextRoot, serverDir) {
+  if (!fs.existsSync(serverDir)) return [];
+  const specs = new Set();
+  const re = /require\((?:'|")(next\/[^'"]+)(?:'|")\)/g;
+  const stack = [serverDir];
+  while (stack.length) {
+    const dir = stack.pop();
+    for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+      const full = path.join(dir, entry.name);
+      if (entry.isDirectory()) stack.push(full);
+      else if (entry.name.endsWith(".js")) {
+        const text = fs.readFileSync(full, "utf8");
+        re.lastIndex = 0;
+        let match;
+        while ((match = re.exec(text))) specs.add(match[1]);
+      }
+    }
+  }
+
+  const files = new Set();
+  const queue = [];
+  for (const spec of specs) {
+    const hit = resolveFile(path.join(nextRoot, spec.replace(/^next\//, "")));
+    if (hit) {
+      files.add(hit);
+      queue.push(hit);
+    }
+  }
+  const seen = new Set();
+  const relativeRe = /require\((?:'|")(\.[^'"]+)(?:'|")\)/g;
+  while (queue.length) {
+    const file = queue.pop();
+    if (seen.has(file)) continue;
+    seen.add(file);
+    let text = "";
+    try {
+      text = fs.readFileSync(file, "utf8");
+    } catch {
+      continue;
+    }
+    relativeRe.lastIndex = 0;
+    let match;
+    while ((match = relativeRe.exec(text))) {
+      const hit = resolveFile(path.resolve(path.dirname(file), match[1]));
+      if (!hit || !hit.startsWith(nextRoot) || files.has(hit)) continue;
+      files.add(hit);
+      queue.push(hit);
+    }
+  }
+  return [...files];
+}

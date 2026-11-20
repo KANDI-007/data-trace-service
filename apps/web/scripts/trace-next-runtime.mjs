@@ -1,11 +1,14 @@
 import { createRequire } from "module";
 import fs from "fs";
 import path from "path";
-import { runtimeFiles } from "./next-runtime-files.mjs";
+import { runtimeFiles, filesRequiredByBuild } from "./next-runtime-files.mjs";
 
 const require = createRequire(path.join(process.cwd(), "package.json"));
 const nextRoot = path.dirname(require.resolve("next/package.json"));
-const extras = runtimeFiles(nextRoot);
+const extras = [
+  ...runtimeFiles(nextRoot),
+  ...filesRequiredByBuild(nextRoot, path.join(process.cwd(), ".next", "server")),
+];
 const traces = [
   path.join(process.cwd(), ".next", "next-minimal-server.js.nft.json"),
   path.join(process.cwd(), ".next", "next-server.js.nft.json"),
