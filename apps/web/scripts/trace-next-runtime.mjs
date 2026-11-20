@@ -1,28 +1,11 @@
 import { createRequire } from "module";
 import fs from "fs";
 import path from "path";
+import { runtimeFiles } from "./next-runtime-files.mjs";
 
 const require = createRequire(path.join(process.cwd(), "package.json"));
 const nextRoot = path.dirname(require.resolve("next/package.json"));
-const wanted = [
-  "dist/compiled/source-map",
-  "dist/compiled/stacktrace-parser",
-  "dist/compiled/ws",
-  "dist/compiled/babel/code-frame.js",
-  "dist/compiled/babel-code-frame",
-];
-
-function filesUnder(target) {
-  const absolute = path.join(nextRoot, target);
-  if (!fs.existsSync(absolute)) return [];
-  if (fs.statSync(absolute).isFile()) return [absolute];
-  return fs.readdirSync(absolute, { recursive: true }).flatMap((entry) => {
-    const file = path.join(absolute, entry.toString());
-    return fs.statSync(file).isFile() ? [file] : [];
-  });
-}
-
-const extras = wanted.flatMap(filesUnder);
+const extras = runtimeFiles(nextRoot);
 const traces = [
   path.join(process.cwd(), ".next", "next-minimal-server.js.nft.json"),
   path.join(process.cwd(), ".next", "next-server.js.nft.json"),
@@ -39,6 +22,7 @@ function walk(dir) {
 
 walk(path.join(process.cwd(), ".next", "server"));
 
+let patched = 0;
 for (const trace of traces) {
   if (!fs.existsSync(trace)) continue;
   const data = JSON.parse(fs.readFileSync(trace, "utf8"));
@@ -49,6 +33,7 @@ for (const trace of traces) {
   }
   data.files = [...present];
   fs.writeFileSync(trace, JSON.stringify(data));
+  patched += 1;
 }
 
-console.log(`traced ${extras.length} Next runtime files into ${traces.length} functions`);
+console.log(`traced ${extras.length} Next runtime files into ${patched} functions`);

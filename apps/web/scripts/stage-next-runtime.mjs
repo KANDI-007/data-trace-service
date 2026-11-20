@@ -1,23 +1,19 @@
 import { createRequire } from "module";
 import fs from "fs";
 import path from "path";
+import { runtimeFiles } from "./next-runtime-files.mjs";
 
 const require = createRequire(path.join(process.cwd(), "package.json"));
 const nextRoot = path.dirname(require.resolve("next/package.json"));
 const destRoot = path.join(process.cwd(), "traced-runtime", "next");
-const items = [
-  "dist/compiled/source-map",
-  "dist/compiled/stacktrace-parser",
-  "dist/compiled/ws",
-  "dist/compiled/babel/code-frame.js",
-  "dist/compiled/babel-code-frame",
-];
 
-for (const item of items) {
-  const from = path.join(nextRoot, item);
-  const to = path.join(destRoot, item);
-  fs.mkdirSync(path.dirname(to), { recursive: true });
-  fs.cpSync(from, to, { recursive: true });
+fs.rmSync(path.join(process.cwd(), "traced-runtime"), { recursive: true, force: true });
+const files = runtimeFiles(nextRoot);
+for (const file of files) {
+  const relative = path.relative(nextRoot, file);
+  const target = path.join(destRoot, relative);
+  fs.mkdirSync(path.dirname(target), { recursive: true });
+  fs.copyFileSync(file, target);
 }
 
-console.log(`staged Next runtime files in ${path.relative(process.cwd(), destRoot)}`);
+console.log(`staged ${files.length} Next runtime files`);

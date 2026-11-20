@@ -3,13 +3,7 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   outputFileTracingRoot: process.cwd(),
   outputFileTracingIncludes: {
-    "/**": [
-      "./traced-runtime/next/dist/compiled/source-map/**/*",
-      "./traced-runtime/next/dist/compiled/stacktrace-parser/**/*",
-      "./traced-runtime/next/dist/compiled/ws/**/*",
-      "./traced-runtime/next/dist/compiled/babel/code-frame.js",
-      "./traced-runtime/next/dist/compiled/babel-code-frame/**/*",
-    ],
+    "/**": ["./traced-runtime/**/*"],
   },
   transpilePackages: ["@dts/shared"],
   images: {
